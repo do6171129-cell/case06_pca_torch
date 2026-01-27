@@ -42,9 +42,3 @@ explained_ratio : (1,)
 ```
 - eigvals は主成分方向の分散として定義
 - explained_ratio は全分散に対する比
-
-## 実行方法
-```text
-pip install -r requirements.txt
-```
-その後、case06_pca_torch.ipynb を実行する。
